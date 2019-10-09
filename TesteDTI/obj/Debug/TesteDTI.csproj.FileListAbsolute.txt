@@ -1,0 +1,7 @@
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\bin\Debug\TesteDTI.exe.config
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\bin\Debug\TesteDTI.exe
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\bin\Debug\TesteDTI.pdb
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\obj\Debug\TesteDTI.csprojAssemblyReference.cache
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\obj\Debug\TesteDTI.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\obj\Debug\TesteDTI.exe
+C:\Users\Daniel Gustavao\Desktop\TESTES\TesteDTI\TesteDTI\obj\Debug\TesteDTI.pdb
