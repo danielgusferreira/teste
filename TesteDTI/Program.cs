@@ -59,8 +59,7 @@ namespace TesteDTI
 
                     //Exibindo resultados ao usuario
                     Console.WriteLine("\n");
-                    Console.WriteLine($"O melhor PetShop para levar seus bichinhos é o: {melhorPetshop.Nome}");
-                    Console.WriteLine($@"Lá você irá pagar o valor de: {melhorPetshop.ValorTotal.ToString("C2")} no banho de seus {(quantidadePetsPequenos + quantidadePetsGrandes)} pets!!");
+                    Console.WriteLine($"O melhor PetShop é: {melhorPetshop.Nome} {melhorPetshop.ValorTotal.ToString("C2")}");
 
                     //verificando se o mesmo deseja continuar com suas verificações.
                     Console.WriteLine("\n");
